@@ -5,7 +5,7 @@
 * Use merge
 
 
-Repository from gitHub
+Repository
 
 …or create a new repository on the command line
 
@@ -27,6 +27,12 @@ git push -u origin main
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
+About pull requests:
+
+Pull requests help you collaborate on code with other people. 
+As pull requests are created, they’ll appear here in a searchable and filterable list. 
+To get started, you should create a pull request.
+
 Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
  Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
  You can create pull requests on GitHub.com, with GitHub Desktop, in Codespaces, on GitHub Mobile, and when using GitHub CLI.
@@ -44,3 +50,5 @@ After you're happy with the proposed changes, you can merge the pull request. If
 If status checks are required for a repository, the required status checks must pass before you can merge your branch into the protected branch. For more information, see "About protected branches."
 
 You can link a pull request to an issue to show that a fix is in progress and to automatically close the issue when someone merges the pull request. For more information, see "Linking a pull request to an issue."
+
+

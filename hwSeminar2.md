@@ -4,6 +4,7 @@
 * Create conflict
 * Use merge
 
+
 Repository from gitHub
 
 …or create a new repository on the command line

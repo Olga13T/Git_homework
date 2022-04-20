@@ -5,7 +5,7 @@
 * Use merge
 
 
-Repository from gitHub
+Repository
 
 …or create a new repository on the command line
 
@@ -26,3 +26,10 @@ git push -u origin main
 …or import code from another repository
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+About pull requests:
+
+Pull requests help you collaborate on code with other people. 
+As pull requests are created, they’ll appear here in a searchable and filterable list. 
+To get started, you should create a pull request.
